@@ -98,8 +98,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Abdulrahmon](https://github.com/RAMDEV-code)
+- Frontend Mentor - [@RAMDEV-code](https://www.frontendmentor.io/profile/RAMDEV-code)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
